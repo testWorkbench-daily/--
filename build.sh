@@ -1,3 +1,3 @@
 cnpm install
 sudo cnpm install --user-install bundler jekyll
-npm  exec jekyll build
+yarn  exec jekyll build
