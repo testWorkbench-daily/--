@@ -6,6 +6,5 @@ Install Ruby
 brew install ruby
 cnpm install
 cnpm install jekyll bundler
-rbenv install 3.0.0
-rbenv global 3.0.0
+Ruby -v
 bundler exec jekyll build
