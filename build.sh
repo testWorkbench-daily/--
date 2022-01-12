@@ -1,4 +1,3 @@
 cnpm install
-cnpm install --user-install bundler jekyll
-cnpm install bundler
+cnpm install jekyll bundler
 bundler exec jekyll build
